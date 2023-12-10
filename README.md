@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohndotcloud&label=Profile%20views&color=0e75b6&style=flat" alt="sohndotcloud" /> </p>
 
-- 🔭 I’m currently working on [Streaming and downloading service](It's in rough shape :))
+- 🔭 I’m currently working on streaming and download service
 
 - 🌱 I’m currently learning **Node, Express, JavaScript**
 
