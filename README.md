@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nils</h1>
 <h3 align="center">A Lego enthusiast turned developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohndotcloud&label=Profile%20views&color=0e75b6&style=flat" alt="sohndotcloud" /> </p>
+<img src="https://komarev.com/ghpvc/?username=sohndotcloud&label=Profile%20views&color=0e75b6&style=flat" alt="sohndotcloud" /> </p>
 
 - 🔭 I’m currently working on a streaming and download service
 
