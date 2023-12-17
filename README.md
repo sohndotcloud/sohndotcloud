@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a streaming and download service
 
-- 🌱 I’m currently learning **Node, Express, JavaScript**
+- 🌱 I’m currently learning **Rust and Web Assembly**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
