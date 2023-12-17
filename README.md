@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sohndotcloud](https://github.com/sohndotcloud)
+- 👨‍💻 All of my projects are available at [https://github.com/sohndotcloud](https://github.com/sohndotcloud) (Only listing finished projects)
 
 - 📫 How to reach me **sohn.cloud@proton.me**
 
