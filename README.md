@@ -3,16 +3,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=sohndotcloud&label=Profile%20views&color=0e75b6&style=flat" alt="sohndotcloud" /> </p>
 
-- 🔭 I’m currently working on a streaming and download service
-
-- 🌱 I’m currently learning **Rust and Web Assembly**
-
-- 👉 If you're interested in learning more about [Rust](http://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/cargo/index.html) and [Web Assembly](https://www.youtube.com/watch?v=cbB3QEwWMlA&pp=ygUZcnVzdCBwb3J0aW5nIHdlYiBhc3NlbWJseQ%3D%3D)
-
-- 👯 I’m looking to collaborate on **Open source projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/sohndotcloud](https://github.com/sohndotcloud) (Only listing finished projects)
-
 - 📫 How to reach me **sohn.cloud@proton.me**
 
 <h3 align="left">Languages and Tools:</h3>
