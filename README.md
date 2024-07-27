@@ -1,9 +1,8 @@
-<img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 55px height=55px>
+<img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 65px height=65px>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2850&pause=1700&vCenter=true&width=435&lines=sohndotcloud)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2850&pause=1700&color=F6D738&vCenter=true&width=435&lines=sohndotcloud)](https://git.io/typing-svg)
 <samp>
-<br/>
+<br/><br/>
 I'm Nils, and I'm a systems developer
 <br/>
 
@@ -12,8 +11,8 @@ I'm Nils, and I'm a systems developer
 </samp>
 <a href="/"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
    
-![sohndotcloud's Stats](https://github-readme-stats.vercel.app/api?username=sohndotcloud&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true&rank_icon=github&custom_title=GitHub%20%Stats)
-![sohndotcloud's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sohndotcloud&theme=ayu-mirage&hide_border=true)
+![sohndotcloud's Stats](https://github-readme-stats.vercel.app/api?username=sohndotcloud&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true&rank_icon=github&custom_title=GitHub%20%Stats)
+![sohndotcloud's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sohndotcloud&theme=great-gatsby&hide_border=true)
 <br/><br/><br/><br/>
 :zap: Technologies
 <br/>
