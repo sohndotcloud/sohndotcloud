@@ -3,11 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2850&pause=1700&color=F6D738&vCenter=true&width=435&lines=sohndotcloud)](https://git.io/typing-svg)
 <samp>
 <br/><br/>
-I'm Nils, and I'm a systems developer
-<br/>
 
-- 📫 You can reach me here: <em>sohn.cloud@proton.me</em>
-- 💬 Ask me about Rust and Linux
 </samp>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
    
