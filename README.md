@@ -27,5 +27,4 @@
 [![Fedora](https://img.shields.io/badge/Fedora-black?logo=fedora&logoColor=fff)](#)
 [![Bash](https://img.shields.io/badge/Bash-black?logo=gnubash&logoColor=fff)](#)
 [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/nils-sohn-762906277/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discordapp.com/users/1185078427007582229)
