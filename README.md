@@ -8,7 +8,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
    
 ![sohndotcloud's Stats](https://github-readme-stats.vercel.app/api?username=sohndotcloud&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true&rank_icon=github&custom_title=GitHub%20%Stats)
-![sohndotcloud's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sohndotcloud&theme=great-gatsby&hide_border=true)
 <br/><br/><br/><br/>
 :zap: Technologies
 <br/>
